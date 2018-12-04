@@ -11,4 +11,6 @@ Ora poniamo PLAYER 1 come "IO"; e poniamo PLAYER 0 come "AVVERSARIO"...:
 Con livelli di profondità DISPARI: PLAYER 1 vince quando è IL PRIMO ad iniziare la partita.
 Con livelli di profondità PARI: PLAYER 1 vince quando è IL SECONDO ad iniziare la partita.
 
-Nota: Il termine "livello di profondtà" sta ad indicare il livello della struttura ad albero che il programma percorre per cercare di individare la prossima mossa da eseguire (si veda "Bantumi - Parte 04 [21-05-2015] - Parte 2.pdf" e/o i commenti presenti nel codice per ottenere maggiori dettagli).
+Nota: Il termine "livello di profondtà" sta ad indicare il livello della struttura ad albero che 
+il programma percorre per cercare di individare la prossima mossa da eseguire 
+(si veda "Bantumi - Parte 04 [21-05-2015] - Parte 2.pdf" e/o i commenti presenti nel codice per ottenere maggiori dettagli).
